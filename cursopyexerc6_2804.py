@@ -1,3 +1,8 @@
+#EXERCICIO INCOMPLETO
+
+
+
+
 lista = range(100)
 # num2  =  {numero for  numero  in  range(100)  if  numero  %  2  ==  0}
 # num3  =  {numero for  numero  in  range(100)  if  numero  %  3  ==  0}
